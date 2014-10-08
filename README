@@ -1,0 +1,4 @@
+GMAPS_AND_RAILS_TUTORIAL
+
+This is a sample application to show google map integration in rails 3. If you are using rails 4 and above, it will do you well to downgrade your rails to version 3.0.3.
+
